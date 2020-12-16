@@ -1,0 +1,17 @@
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.abstractions.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\VonageGame.Tests.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\VonageGame.Tests.pdb
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.assert.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.core.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\VonageGame.exe
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\VonageGame.pdb
+C:\src\VonageGame\VonageGame.Tests\bin\Debug\VonageGame.exe.config
+C:\src\VonageGame\VonageGame.Tests\obj\Debug\VonageGame.Tests.csprojAssemblyReference.cache
+C:\src\VonageGame\VonageGame.Tests\obj\Debug\VonageGame.Tests.csproj.CoreCompileInputs.cache
+C:\src\VonageGame\VonageGame.Tests\obj\Debug\VonageGame.Tests.csproj.CopyComplete
+C:\src\VonageGame\VonageGame.Tests\obj\Debug\VonageGame.Tests.dll
+C:\src\VonageGame\VonageGame.Tests\obj\Debug\VonageGame.Tests.pdb

@@ -1,0 +1,7 @@
+C:\src\VonageGame\VonageGame\bin\Debug\VonageGame.exe.config
+C:\src\VonageGame\VonageGame\bin\Debug\VonageGame.exe
+C:\src\VonageGame\VonageGame\bin\Debug\VonageGame.pdb
+C:\src\VonageGame\VonageGame\obj\Debug\VonageGame.csprojAssemblyReference.cache
+C:\src\VonageGame\VonageGame\obj\Debug\VonageGame.csproj.CoreCompileInputs.cache
+C:\src\VonageGame\VonageGame\obj\Debug\VonageGame.exe
+C:\src\VonageGame\VonageGame\obj\Debug\VonageGame.pdb

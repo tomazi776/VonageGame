@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VonageGame", "VonageGame\VonageGame.csproj", "{87577AA3-EB30-4E03-ADB7-7697F8C7EEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VonageGame.Tests", "VonageGame.Tests\VonageGame.Tests.csproj", "{1B884019-7165-4C88-BA5A-662735B25D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87577AA3-EB30-4E03-ADB7-7697F8C7EEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87577AA3-EB30-4E03-ADB7-7697F8C7EEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87577AA3-EB30-4E03-ADB7-7697F8C7EEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87577AA3-EB30-4E03-ADB7-7697F8C7EEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B884019-7165-4C88-BA5A-662735B25D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B884019-7165-4C88-BA5A-662735B25D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B884019-7165-4C88-BA5A-662735B25D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B884019-7165-4C88-BA5A-662735B25D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA7523F-922B-40F6-ABCD-A380DC4649C6}
+	EndGlobalSection
+EndGlobal
